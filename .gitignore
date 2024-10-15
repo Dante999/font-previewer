@@ -1,5 +1,3 @@
-nobuild.old
+/build
 preview.svg
-fonts.txt
-nobuild
-font_previewer
+*.swp
